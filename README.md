@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @mateusz800
-- 🌱 I’m currently learning mobile app development
 - 📫 How to reach me mat.budnik@outlook.com
