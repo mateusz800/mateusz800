@@ -21,4 +21,4 @@
 
 </br>
 
-I am constantly working on developing my skills. Open to learning new technologies and participating in interesting projects. You can reach me via email <a href="mailto:mat.budnik@outlook.com"> mat.budnik@outlook.com </a>
+ I am open to learning new technologies and participating in interesting projects. You can reach me via email <a href="mailto:mat.budnik@outlook.com"> mat.budnik@outlook.com </a>
